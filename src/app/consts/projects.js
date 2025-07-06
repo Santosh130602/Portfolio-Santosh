@@ -3,102 +3,57 @@
  */
 const projects = [
     {
-        id: "deplos",
-        links: {
-            figma: "1198393124994627983",
-            live: "deplos.github.io",
-            github: "Deplos/deplos.github.io"
-        },
-        techs: ["pug", "stylus", "node"],
+        
+        id:"Sadhanashri Kutumb",
+        techs: ["express", "node", "react","phonepe"],
+        links: {},
         hasImage: true,
     },
     {
-        id: "pixel-battle",
+        id: "Talento",
         links: {
-            live: "pixelbattle.fun",
-            github: "pixelate-it/pixelbattle-frontend",
+            live:"nouveau-client-jezp.vercel.app",
         },
-        techs: ["preact", "css", "pixijs", "ts"],
+        techs: ["react", "tailwindcss", "node", "mongodb"],
+        hasImage: true,
+    },
+    {
+        id:"Resume",
+        links: {
+            live: "resume-mu-lilac.vercel.app/",
+            github: "Santosh130602/resume",
+        },
+        techs: ["react", "css" , "ts"],
         hasImage: true
     },
     {
-        id: "feedrum",
+        id:"Study-Notion",
         links: {
-            github: "Feedrum-Project/feedrum-next",
-            figma: "1314605686829534158"
+            github: "Santosh130602/study",
+            live:"study-coral-eight.vercel.app/"
+            
         },
-        techs: ["node", "next", "react", "zod"],
+        techs: ["node", "next", "react", "mongodb"],
         hasImage: true,
     },
     {
-        id: "chertnodes",
+        id:"Krishi Doot",
         links: {
-            figma: "1149829028455305659",
+            live:"krishi-doot.vercel.app",
+            github:"Santosh130602/Krishi_Doot"
         },
-        techs: ["python", "flask", "scss"],
+        techs: ["python", "flask", "scss","react"],
         hasImage: true,
     },
     {
-        id: "protectx",
-        techs: ["react", "node", "discordJs"],
+        id:"G-Map",
+        techs: ["react", "openMap"],
         links: {
-            figma: "1168662007492356291",
+            github:"Santosh130602/G-MAP",
+            live:"g-map.vercel.app"
         },
         hasImage: true,
-    },
-    {
-        id: "khanswers",
-        techs: ["express", "node", "ejs"],
-        links: {
-            live: "khanswers.vercel.app",
-            github: "/kahoot-answers",
-        },
-        hasImage: true,
-    },
-    {
-        id: "kotikbot",
-        techs: ["html", "css", "js"],
-        links: {
-            live: "kotikbot.github.io",
-            github: "kotikbot/kotikbot.github.io",
-        },
-        hasImage: true,
-    },
-    {
-        id: "portfolio",
-        techs: ["js", "sass", "webpack"],
-        links: {
-            figma: "1164933568884615740",
-            github: "/EliasDevis.github.io",
-            live: "eliasdevis.github.io"
-        },
-        hasImage: true,
-    },
-
-    {
-        id: "discordbot",
-        techs: ["ts", "discordJs", "node"],
-        links: {
-            github: "/bot-template",
-        },
-        isSmall: true,
-    },
-    {
-        id: "chesspro",
-        techs: ["figma"],
-        links: {
-            figma: "1148344443083977909",
-        },
-        isSmall: true,
-    },
-    {
-        id: "madhost",
-        techs: ["pug", "less", "gulp", "node"],
-        links: {
-            live: "madhost.pw",
-        },
-        hasImage: true,
-    },
+    }
 ];
 
 export default projects;

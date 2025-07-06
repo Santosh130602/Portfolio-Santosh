@@ -10,3 +10,8 @@ export interface Project {
     isSmall?: boolean;
     isInProgress?: boolean
 }
+
+
+
+
+// "author": "Er. BitBlizzard"

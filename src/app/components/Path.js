@@ -1,3 +1,4 @@
+
 export default ({ description }) => {
     return /*html*/`
         <div class="path">

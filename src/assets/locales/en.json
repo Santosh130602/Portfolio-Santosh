@@ -6,8 +6,8 @@
         "contacts": "contacts"
     },
     "footer": {
-        "description": "Web designer and front-end developer based in Ukraine",
-        "copyright": "Copyright 2023. Made by Elias",
+        "description": "Web designer and Software developer based in India",
+        "copyright": "Made by Santosh",
         "media": "Media"
     },
     "skills": {
@@ -15,20 +15,22 @@
         "database": "Databases",
         "other": "Other",
         "tool": "Tools",
-        "framework": "Frameworks"
+        "framework": "Frameworks",
+        "concept": "Concepts",
+        "other_tools": "Other tools"
     },
     "projects": {
-        "chertnodes": {
-            "name": "ChertNodes",
-            "description": "Minecraft servers hosting"
+        "Krishi Doot": {
+            "name": "Krishi Doot",
+            "description": "Web application for farmers to get information about crops and weather"
         },
-        "protectx": {
-            "name": "ProtectX web",
-            "description": "Discord anti-crash bot"
+        "G-Map": {
+            "name": "G-Map Web",
+            "description": "Web application for viewing Google Maps with discord auth"
         },
-        "khanswers": {
-            "name": "Kahoot Answers",
-            "description": "Get answers from kahoot quiz"
+        "Sadhanashri Kutumb": {
+            "name": "Sadhanashri Kutumb",
+            "description": "Web application for Doormitory and Volunteer registration for MAHAKumbh Mela"
         },
         "kotikbot": {
             "name": "KotikBot",
@@ -58,30 +60,30 @@
             "name": "MadHost",
             "description": "Minecraft and websites hosting with low prices"
         },
-        "feedrum": {
-            "name": "Feedrum",
-            "description": "Ukrainian social network designed for programmers"
+        "Study-Notion": {
+            "name": "Study-Notion",
+            "description": "Web application for students to manage their studies and Live Classes"
         },
-        "deplos": {
-            "name": "Deplos",
-            "description": "Game servers hosting"
+        "Talento": {
+            "name": "Talento",
+            "description": "Empowering Talent, Elevating Brands – Your All-in-One PR & Talent Management Platform."
         },
-        "pixel-battle": {
-            "name": "Pixel Battle",
+        "Resume": {
+            "name": "Resume",
             "description": "Pixel art battle game"
         }
     },
     "pages": {
         "home": {
             "hero": {
-                "title": "Elias is a <span>web designer</span> and <span>front-end</span> developer",
-                "description": "He crafts responsive websites where technologies meet creativity",
+                "title": "Santosh is a <span>web designer</span> and <span>Software</span> developer",
+                "description": "He develops high-performance, responsive web applications that marry modern technologies with creative intuition — delivering solutions that are both technically sound and visually striking.",
                 "button": "Contact ME",
                 "status": "Open for new opportunities"
             },
             "quote": {
-                "text": "With great power comes great electricity bill",
-                "author": "Dr. Who"
+                "text": "Being a developer means falling in love with the same bug ten different ways.",
+                "author": "Er. Santosh"
             },
             "projects": {
                 "title": "projects",
@@ -91,10 +93,10 @@
                 "title": "skills"
             },
             "about": {
-                "title": "about",
+                "title": "About",
                 "description": [
-                    "I’m a self-taught front-end developer based in Warsaw, Poland. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
-                    "Transforming my creativity and knowledge into a websites has been my passion for over two years. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks."
+                    "I’m Santosh, a self-taught Software developer from India with a strong passion for building clean, responsive, and user-friendly web applications. I blend creative design with solid code to bring ideas to life on the browser.",
+                    "With over two years of hands-on experience, I’ve worked on various projects that focus on performance, accessibility, and seamless user experience. I continuously explore the latest technologies and frameworks to sharpen my skills and deliver modern digital solutions that make an impact."
                 ],
                 "button": "View all"
             },
@@ -115,9 +117,9 @@
             "description": "Who am i",
             "about": {
                 "description": [
-                    "I’m a self-taught front-end developer based in Warsaw, Poland. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
-                    "Transforming my creativity and knowledge into a websites has been my passion for over a two years. I have been helping various clients to establish their presence online. ",
-                    "I always strive to learn about the newest technologies and frameworks. "
+                    "I’m a self-taught front-end developer from India, passionate about creating responsive and engaging web experiences from the ground up.",
+                    "For over two years, I’ve been transforming creative ideas into modern, user-friendly websites. I've worked with a range of clients to help establish and grow their digital presence.",
+                    "I'm always eager to explore new technologies and frameworks, constantly learning to refine my craft and stay ahead in the ever-evolving world of web development."
                 ]
             },
             "skills": {
@@ -126,10 +128,10 @@
             "facts": {
                 "title": "fun-facts",
                 "list": [
-                    "I like winter more than summer", 
-                    "I often bike with my friends",
-                    "I like pizza and pasta", 
-                    "My favorite movie is The Green Mile"
+                    "I love playing volleyball, especially in the evenings.",
+                    "Sketching helps me relax and sparks my creativity.",
+                    "Mountain trips are my favorite way to recharge and find inspiration.",
+                    "Maggi is my go-to comfort food—any time, any day!"
                 ]
             }
         },
@@ -138,3 +140,5 @@
         }
     }
 }
+
+

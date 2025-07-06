@@ -2,22 +2,18 @@ import proxy from "../proxies/media"
 
 const media = {
     discord: {
-        id: "914240860101681163",
-        tag: "elias.dev.",
+        id: "1224582497715621909",
+        tag: "code_roster",
     },
-    stackOverflow: {
-        id: "19758208",
-        name: "elias",
+    linkedin: {
+       id: "santosh-pal-7b7b95253",
+       tag: "Santosh"
     },
-    github: "EliasDevis",
-    figma: "elias_dev",
-    replit: "EliasDev",
-    codewars: "EliasDevis",
-    devTo: "eliasdevis",
-    cssBattle: "elias_dev",
-    codepen: "elias_dev",
-    dribble: "Elias_dev",
-    email: "elias.devis@protonmail.com"
+    github: "Santosh130602",
+    figma: "santosh42",
+    replit: "santosh44biet",
+    leetCode:"Uzumaki_MAKI",
+    email: "santoshbiet.cs2144@gmail.com"
 
 }
 

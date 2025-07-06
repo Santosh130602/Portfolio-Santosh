@@ -1,5 +1,4 @@
 
-// From https://github.com/rafgraph/spa-github-pages
 
 let pathSegmentsToKeep = 0;
 let l = window.location;
