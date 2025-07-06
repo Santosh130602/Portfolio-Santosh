@@ -6,7 +6,7 @@ I know you're looking to build a creative, stylish portfolio and showcase your s
 
 **Author**: Santosh  
 **GitHub Repo**: https://github.com/Santosh130602/Portfolio-Santosh  
-**LIVE**: [santosh130602.github.io](https://santosh130602.github.io/Portfolio-Santosh)
+**LIVE**: [santosh130602.github.io](https://portfolio-santosh-nu.vercel.app/)
 
 ## TODO ##
 - [ ] Contacts Page
