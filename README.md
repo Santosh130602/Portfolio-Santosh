@@ -1,15 +1,26 @@
 # My Portfolio #
-Written in vanilla js.
 
-If you have any questions you can message me on discord **elias.dev.**
-*PS. I'm sure there are a lot of typos and bugs, so pull requests and forks are welcome*  
+Written in vanilla JS.
 
-**FIGMA**: https://www.figma.com/community/file/1164933568884615740  
-**LIVE**: [eliasdevis.github.io](https://eliasdevis.github.io/)
+I know you're looking to build a creative, stylish portfolio and showcase your skills — so don’t worry! Feel free to **reach out**, **fork it**, or **collaborate** if you find this helpful.
+
+**Author**: Santosh  
+**GitHub Repo**: https://github.com/Santosh130602/Portfolio-Santosh  
+**LIVE**: [santosh130602.github.io](https://santosh130602.github.io/Portfolio-Santosh)
 
 ## TODO ##
-- [ ] Page contacts
-- [ ] Blog maybe
-- [ ] Animation
-- [ ] Improve images
-- [ ] Delete unused code
+- [ ] Contacts Page
+- [ ] Personal Blog (maybe)
+- [ ] Add animations
+- [ ] Optimize images
+- [ ] Clean up and remove unused code
+- [ ] Add proper metadata and SEO info
+- [ ] Enhance responsive design
+- [ ] Improve accessibility (a11y)
+
+---
+
+### 🙌 Like it? Want to build something similar?  
+Feel free to fork and build on top of this. Let’s grow together!
+
+— **Santosh**
